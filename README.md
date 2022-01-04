@@ -4,7 +4,7 @@
 
 # ignite-desafio02-react-chapter01-componentizando-a-aplicacao
 
-## Desafio 01 - Conceitos do React
+## Desafio 02 - Componentizando a Aplicação
 
 
 Vamos inicia digitando yarn:
